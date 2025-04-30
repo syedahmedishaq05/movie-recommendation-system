@@ -1,4 +1,4 @@
-# 🎮 ML LAB Project - Steam Game Recommendation System
+# 🎮 Steam Game Recommendation System
 
 ## 📌 Project Overview
 
