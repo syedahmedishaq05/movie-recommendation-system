@@ -4,12 +4,6 @@
 
 This project focuses on building a **Steam game recommendation system** using user ratings and game metadata. It aims to analyze user preferences and game attributes to generate **personalized game suggestions**.
 
-## 👥 Team Members
-
-- 22k4102  
-- 22k8709  
-- 22k4066  
-
 ## 📂 Datasets
 
 The project utilizes two main datasets:
